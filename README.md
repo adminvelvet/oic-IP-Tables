@@ -1,7 +1,14 @@
 # oic-IP-Tables
 
-@Fabrice ajoutera les reglès de pare-feu. Bloquer tout accès sur les IP publiques des machines hots
+> host hadoop-m IP-Tables
 
+> host hadoop-w-0 IP-Tables
+
+> host hadoop-w-1 IP-Tables
+
+> host hadoop-w-2 IP-Tables
+
+> host hadoop-w-3 IP-Tables
 
 > Change Ambari admin password
 
